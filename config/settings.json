@@ -1,0 +1,6 @@
+{
+  "default_interfaces_name": [
+    "以太网",
+    "WLAN"
+  ]
+}
